@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "petrogia-9c779": {
+      "hosting": {
+        "proyectoPetrologia": [
+          "petrogia-9c779"
+        ]
+      }
+    }
+  }
+}
